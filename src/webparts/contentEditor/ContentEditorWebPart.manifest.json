@@ -1,0 +1,24 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "5be90ffb-e27a-40f7-ad10-f28f0db0eef3",
+  "alias": "ContentEditorWebPart",
+  "componentType": "WebPart",
+
+  
+  "version": "*",
+  "manifestVersion": 2,
+
+  
+  "requiresCustomScript": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
+    "group": { "default": "Other" },
+    "title": { "default": "ContentEditor" },
+    "description": { "default": "A webpart to add custom Content/HTML to  a Page" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "ContentEditor"
+    }
+  }]
+}

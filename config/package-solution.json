@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "content-editor-client-side-solution",
+    "id": "f8a03e65-7eaf-4b94-9130-8f730ac0385b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/content-editor.sppkg"
+  }
+}
